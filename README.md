@@ -1,7 +1,3 @@
-Here's the updated **GitHub README** content to reflect the `.exe` version of your app, while keeping the original structure and tone professional, warm, and enthusiastic:
-
----
-
 # 🎮 Netflix Watch Tracker
 
 A visually appealing and interactive **desktop app** to log, track, and analyze your Netflix viewing activity. Built using Python, Tkinter, Pandas, NumPy, and Matplotlib.
