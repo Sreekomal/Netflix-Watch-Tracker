@@ -26,6 +26,12 @@ Now available as a standalone `.exe` file — no Python installation required!
 
 ---
 
+📁 Files Included:
+- NetflixTracker.exe → Main application
+- Netflix_titles.csv → Sample Netflix watch history file to test the app
+
+---
+
 ## 🖥️ Installation & Setup
 
 ### 🔹 Option 1: Run the EXE (Recommended for Non-Coders)
